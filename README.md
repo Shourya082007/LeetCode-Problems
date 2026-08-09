@@ -51,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
