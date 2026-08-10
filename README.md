@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+## Binary Search
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
