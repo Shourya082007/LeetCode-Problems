@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
