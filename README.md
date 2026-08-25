@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
 |  |
 | ------- |
