@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
