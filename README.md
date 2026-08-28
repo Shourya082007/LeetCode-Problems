@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
