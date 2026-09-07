@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0495-teemo-attacking](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
