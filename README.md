@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
