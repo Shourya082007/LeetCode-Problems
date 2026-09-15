@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1652-defuse-the-bomb](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Shourya082007/LeetCode-Problems/tree/master/2090-k-radius-subarray-averages) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Shourya082007/LeetCode-Problems/tree/master/2090-k-radius-subarray-averages) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
