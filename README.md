@@ -51,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
@@ -248,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
