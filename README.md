@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shourya082007/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Minimax
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shourya082007/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bubble Sort
 |  |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shourya082007/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
